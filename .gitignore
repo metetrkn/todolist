@@ -1,0 +1,5 @@
+manage.py
+db.sqlite3
+initial_app/__pycache__/
+initial_app/migrations/__pycache__/
+todolists/__pycache__/
